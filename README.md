@@ -1,5 +1,6 @@
 # hello-world
 First repository to start practicing the GitHub Flow.
+
 I am a newbie to the programming world, though can write a simple programm on Python language.
 Want to understand how the Information Systems work alongside of writing code and commiting my skills to another programmers' works.
 Ah, forgot to inrtoduce myself. My name is Mirjahon. MJ for short since not everyone can pronounce my name. I would rather prefer people calling me MJ, cause I don't like my name to be mispronounced. I feel weird.
