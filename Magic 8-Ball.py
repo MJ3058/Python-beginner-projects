@@ -29,6 +29,6 @@ if name == "":
 else:
   print(name + " "+ "asks: " + question)
 if name == ""and question == "":
-  print("Bastard, ask something!")
+  print("Please, ask something!")
 else:
   print("Magic 8-Ball's answer: " + answer)
